@@ -1,1 +1,1 @@
-# calculator_convertor
+# calculator-converter
